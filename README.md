@@ -1,10 +1,6 @@
 
 <h1 align="center">Olá, eu sou o Caio 👋</h1>
 
-<p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b> na UNIFACISA, em busca de oportunidade de <b>estágio em TI</b>.
-</p>
-
 ---
 
 ### 🚀 Sobre mim
