@@ -31,11 +31,7 @@
 - **Sistema de Gerenciamento de Biblioteca** — Sistema em Java para cadastro, pesquisa, listagem, exclusão, empréstimo e devolução de livros, com controle de prazo e cálculo automático de multa.
 - **Sistema de Ouvidoria em Python** — Projeto acadêmico desenvolvido durante o curso de ADS.
 - **Biblioteca em Java (estruturas e POO)** — Exercícios e projetos aplicando coleções (`HashMap`, `ArrayList`), `switch`, laços de repetição e tratamento de erros.
-
-> 💡 Atualize os links acima com a URL real de cada repositório.
-
----
-
+- 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -46,10 +42,10 @@
 ### 📫 Como me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/caio-romão">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:caioromaoti@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
