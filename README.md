@@ -6,10 +6,6 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando ADS — UNIFACISA
-- 💻 Estudando lógica de programação, **Java** e **Python**, com foco em **Orientação a Objetos**
-- 🗄️ Aprendendo a trabalhar com **bancos de dados** (MySQL)
-- 🔭 Construindo projetos práticos para fixar conceitos de POO, estruturas de dados e fluxo de programas
-- 🌱 Buscando ativamente minha primeira oportunidade de **estágio em TI**
 - 📫 Aberto a conversar sobre oportunidades, projetos e estudos
 
 ---
@@ -45,7 +41,7 @@
 
 ---
 
-<p align="center"><i>Em constante aprendizado, um commit de cada vez. 🚀</i></p>
+<p align="center"><i>Em constante aprendizado. 🚀</i></p>
 
 
 <!--
