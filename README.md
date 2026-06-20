@@ -1,3 +1,4 @@
+<img width="1527" height="763" alt="image" src="https://github.com/user-attachments/assets/c80eafc2-69f9-4803-b80c-5bb7effbcae7" />
 
 <h1 align="center">Olá, eu sou o Caio 👋</h1>
 
