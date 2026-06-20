@@ -28,8 +28,8 @@
 
 ### 📌 Projetos em Destaque
 
-- **[Sistema de Gerenciamento de Biblioteca](https://github.com/seu-usuario/seu-repositorio)** — Sistema em Java para cadastro, pesquisa, listagem, exclusão, empréstimo e devolução de livros, com controle de prazo e cálculo automático de multa.
-- **Sistema de Ouvidoria** — Projeto acadêmico desenvolvido durante o curso de ADS.
+- **Sistema de Gerenciamento de Biblioteca** — Sistema em Java para cadastro, pesquisa, listagem, exclusão, empréstimo e devolução de livros, com controle de prazo e cálculo automático de multa.
+- **Sistema de Ouvidoria em Python** — Projeto acadêmico desenvolvido durante o curso de ADS.
 - **Biblioteca em Java (estruturas e POO)** — Exercícios e projetos aplicando coleções (`HashMap`, `ArrayList`), `switch`, laços de repetição e tratamento de erros.
 
 > 💡 Atualize os links acima com a URL real de cada repositório.
@@ -42,10 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" width="48%" />
 </p>
-
-> 💡 Troque `seu-usuario` pelo seu username real do GitHub nos links acima.
-
----
 
 ### 📫 Como me encontrar
 
