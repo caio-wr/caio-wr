@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="welcome-banner-v2.svg" alt="welcome banner" width="100%" />
-</p>
+
 <h1 align="center">Olá, eu sou o Caio 👋</h1>
 
 ---
