@@ -41,7 +41,7 @@
 
 ---
 
-<p align="center"><i>Em constante aprendizado. 🚀</i></p>
+
 
 
 <!--
